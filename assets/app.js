@@ -1,6 +1,6 @@
 
       // Initial array of movies
-      var GiphyArray = ["The Matrix", "The Notebook", "Mr. Nobody", "The Lion King"];
+      var GiphyArray = ["guilty dogs", "funny cats", "Steve Harvey", "weird"];
 
       // displayMovieInfo function re-renders the HTML to display the appropriate content
       function displayGiphyInfo() {
